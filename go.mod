@@ -1,3 +1,3 @@
-module github.com/leolas95/mymodule v1.0.0
+module github.com/leolas95/mymodule/v1
 
 go 1.18
