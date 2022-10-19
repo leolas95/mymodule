@@ -10,3 +10,7 @@ func Bye() string {
     return "bye"
 }
 
+func Ask() string {
+    return "???"
+}
+
