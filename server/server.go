@@ -7,3 +7,7 @@ func Ping() string {
 func Echo(s string) string {
     return s
 }
+
+func Pong() string {
+    return "ping"
+}
